@@ -10,8 +10,8 @@
 ## Prerequisites
 
 <ul>
-  <li><span style="color: #007ACC; font-size: 1.2em;">●</span> <strong>Docker</strong> & Docker-Compose</li>
-  <li><span style="color: #4CAF50; font-size: 1.2em;">●</span> <strong>Python</strong>: >= 3.11</li>
+  <li> <strong>Docker</strong> & Docker-Compose</li>
+  <li> <strong>Python</strong>: >= 3.11</li>
 </ul>
 
 Install dependencies:
